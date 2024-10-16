@@ -1,5 +1,5 @@
 # Michael Jan R. Tangalin
-# Task # 1: Implement Caesar Cipher
+# Implement Caesar Cipher
 
 def encrypt(text, shift):
     result = ""
