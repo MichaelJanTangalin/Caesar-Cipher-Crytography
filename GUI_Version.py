@@ -1,6 +1,4 @@
-# Michael Jan R. Tangalin
-# Task # 1: Implement Caesar Cipher (GUI Version)
-
+# MJT
 
 import tkinter as tk
 from tkinter import messagebox
