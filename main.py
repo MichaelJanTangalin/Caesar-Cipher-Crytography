@@ -1,5 +1,4 @@
-# Michael Jan R. Tangalin
-# Implement Caesar Cipher
+# MJT
 
 def encrypt(text, shift):
     result = ""
